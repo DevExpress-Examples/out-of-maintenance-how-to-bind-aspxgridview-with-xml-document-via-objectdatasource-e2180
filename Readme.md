@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataItem.cs](./CS/WebSite/App_Code/DataItem.cs) (VB: [DataItem.vb](./VB/WebSite/App_Code/DataItem.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [XMLFile.xml](./CS/WebSite/XMLFile.xml) (VB: [XMLFile.xml](./VB/WebSite/XMLFile.xml))
+<!-- default file list end -->
 # How to bind ASPxGridView with Xml Document via ObjectDataSource
 
 
