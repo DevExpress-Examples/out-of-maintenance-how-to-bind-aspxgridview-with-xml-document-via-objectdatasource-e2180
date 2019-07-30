@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to bind ASPxGridView with Xml Document via ObjectDataSource
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2180)**
+**[[Run Online]](https://codecentral.devexpress.com/e2180/)**
 <!-- run online end -->
 
 
